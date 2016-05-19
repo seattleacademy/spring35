@@ -1,0 +1,22 @@
+{
+  "name": "spring35",
+  "version": "1.0.0",
+  "description": "Make Raspberry Pi sense-hat work with node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/seattleacademy/spring35.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seattleacademy/spring35/issues"
+  },
+  "homepage": "https://github.com/seattleacademy/spring35#readme",
+  "dependencies": {
+    "python-shell": "^0.4.0"
+  }
+}
